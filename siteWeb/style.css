@@ -1,0 +1,90 @@
+
+#fond {
+width : 768px;
+	background-color : red;
+margin : 0 auto;
+}
+
+/***************************
+  Banniere
+ **************************/
+
+#banniere {
+height:256px;
+width: inherit;
+       background-color: blue;
+}
+
+
+/*************************
+  ZoneMenuActu
+ ***********************/
+#zoneMenuActu {
+height : 256px;
+	 /* 
+	    background-color : gray;
+	  */
+}
+
+/**************************
+  Menu 
+ ************************/
+
+#menu {
+height: inherit;
+width : 192px;
+float: left;
+       background-color: green;
+}
+
+.itemMenu {
+width : inherit;
+height : 25px;
+}
+
+/************************
+  Small actu
+ **********************/
+
+#smallActu {
+height: inherit;
+width : 192px;
+	background-color : yellow;
+float : right;
+}
+
+
+/**********************
+  Corps
+ ********************/
+#corps {
+width : inherit;
+	 background-color: blue;
+}
+
+/*********************
+ Corps.jeux
+ ********************/
+#jeux {
+ width : inherit;
+ height : 1024px;
+}
+
+/*********************
+  footer
+ *******************/
+#footer {
+width : inherit;
+height: 100px;
+	background-color : gray;
+}
+
+/********************
+  general
+ ******************/
+.backgroundRed {
+	background-color : red;
+}
+.backgroundYellow {
+	background-color : yellow;
+}
